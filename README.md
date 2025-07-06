@@ -15,7 +15,12 @@ NoteApp is an Android application that helps users create, organize, and manage 
 ## Screenshots 📸
 | Splash Screen | Home Screen | Add/Edit Note | Note Details | Delete Confirmation |
 |---------------|-------------|------------|------|---------|
-| <img src="https://github.com/user-attachments/assets/bd351be0-4973-4408-96f9-7cab1d3da4ad" width="200"> | <img src="https://github.com/user-attachments/assets/45c84670-048d-4088-8c6b-8d41e45152fe" width="200"> | <img src="https://github.com/user-attachments/assets/744dada1-44bc-4f5b-8573-1c2f32c0d694" width="200"> | <img src="https://github.com/user-attachments/assets/7b1b0687-afab-4304-9291-004f6a30733b" width="200"> | <img src="https://github.com/user-attachments/assets/db04f974-5095-4900-bd06-6c07adf0fd30" width="200"> |
+| <img src="https://github.com/user-attachments/assets/bd351be0-4973-4408-96f9-7cab1d3da4ad" width="200"> | <img src="https://github.com/user-attachments/assets/15671999-1212-4af0-bb0b-073926d0343f" width="200"> | <img src="https://github.com/user-attachments/assets/e1f01d63-af02-46d4-83d7-d1bd040e7ff9" width="200"> | <img src="https://github.com/user-attachments/assets/4f57b4a4-3bba-445b-a66e-f85210e08cbf" width="200"> | <img src="https://github.com/user-attachments/assets/09a0348a-6d78-433a-a123-a84d8259a784" width="200"> |
+
+
+
+
+
 
 ## Demo Video 🎥
 
