@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note Application</string>
+    <string name="update_note">Update Note</string>
+    <string name="title_required">Title is required</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="note_updated">Note updated successfully</string>
+    <string name="save_failed">Failed to save note</string>
+    <string name="update_failed">Failed to update note</string>
+</resources>
