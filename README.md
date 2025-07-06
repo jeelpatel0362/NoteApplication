@@ -19,7 +19,7 @@ NoteApp is an Android application that helps users create, organize, and manage 
 
 ## Demo Video 🎥
 
-https://github.com/user-attachments/assets/1cb1d895-c1f4-44e6-816b-3654414caeef
+https://github.com/user-attachments/assets/f635b7af-caa7-4a20-9c31-09c9c340aa04
 
 ## Technologies Used 🛠️
 
