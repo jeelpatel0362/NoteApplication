@@ -4,13 +4,13 @@ NoteApp is an Android application that helps users create, organize, and manage 
 
 ## Features ✨
 
--Create notes with titles, descriptions, and priority levels
--Priority system (High, Urgent, Medium, Normal) with color coding
--Edit existing notes with automatic timestamp updates
--Delete notes with confirmation dialog
--View note details in a dedicated dialog
--Sorting by creation date (newest first)
--Splash screen for better user experience
+- Create notes with titles, descriptions, and priority levels
+- Priority system (High, Urgent, Medium, Normal) with color coding
+- Edit existing notes with automatic timestamp updates
+- Delete notes with confirmation dialog
+- View note details in a dedicated dialog
+- Sorting by creation date (newest first)
+- Splash screen for better user experience
 
 ## Screenshots 📸
 | Splash Screen | Home Screen | Add/Edit Note | Note Details | Delete Confirmation |
